@@ -2,7 +2,7 @@
 
 Notre IA consiste en une sorte de Runner. Nous pouvons visualiser cela comme un plateau 9x9 avec le bas comme la position de départ du joueur 1 et le haut comme la position de départ du joueur 2. Le pion se déplace en ligne droite jusqu'à rencontrer un obstacle. Lorsqu'il rencontre un obstacle, il se déplace sur la droite et continue en ligne droite. Si le pion se trouve à l'extrémité droite de la grille, l'IA active un mode spécial qui le ramène vers la gauche. Dans ce mode, ses seuls mouvements sont d'aller tout droit par rapport à son arrivée ou d'aller à gauche. Une fois revenu à gauche, l'IA reprend sa stratégie initiale. Ainsi, comme nous pouvons le constater, l'IA est 100% prédictible.
 
-# Matricules
+## Matricules
 - **Azizi Alejdin :** 21187
 - **Pierre Louis :** 23317
 
